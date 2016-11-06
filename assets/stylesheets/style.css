@@ -1,0 +1,54 @@
+.hero {
+  font-family: "Helvetica", "Arial", "Sanserif";
+  text-align: center;
+  margin: 10px;
+  padding: auto;
+}
+
+p {
+  color: gray;
+  font-family: "Helvetica", "Arial", "Sanserif";
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+}
+
+.menu {
+  font-family: "Helvetica", "Arial", "Sanserif";
+  text-align: center;
+  margin: 10px;
+  padding: auto;
+}
+
+.about {
+  font-family: "Helvetica", "Arial", "Sanserif";
+  text-align: center;
+  margin: 10px;
+  padding: auto;
+}
+
+.hours {
+  font-family: "Helvetica", "Arial", "Sanserif";
+  text-align: center;
+  margin: 10px;
+  padding: auto;
+}
+
+
+li {
+  color: lightgray;
+  font-size: 12px;
+  font-family: "Helvetica", "Arial", "Sanserif";
+  text-align: center;
+  margin: 6px;
+  padding: 10px;
+  display: inline-block;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgray;
+}
+
+li:hover {
+    border-color: black;
+    color: black;
+}
